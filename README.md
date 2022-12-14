@@ -61,10 +61,7 @@
 - **`최근 본 공간`**
   회원이 최근에 본 공간들을 볼 수 있는 페이지입니다.
   유저가 상세페이지에 접속시 해당 공간의 id를 브라우저의 세션 스토리지에 저장하는 방식입니다.
-  
-
-## [🏷 API Table 🏷]
-
+ 
 <br/>
 
 ## 🛠 Tech Stack & Platform
@@ -147,5 +144,7 @@
 </details>
 
 <br />
+
+## [🏷 프로젝트 노션 🏷](https://shadow-blanket-65e.notion.site/MoiM-a37bb15bcad1427f9d47d23048b76edd)
 
 
