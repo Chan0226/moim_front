@@ -110,14 +110,14 @@
 
 <details>
 <summary>데모영상</summary>
-  
-|메인페이지|계획세우기|실시간 기능| 
-|:---:|:---:|:---:| 
-|<img src="https://user-images.githubusercontent.com/89297158/171185593-a9a75922-30e1-4c4b-854c-27bc61d9ce40.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171189957-4dc456e4-4a72-48a8-a9ca-5fd68037d558.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171189232-4fc38d69-ded8-4e67-a39e-dcf211a6433b.gif" width="250"/>|
-|검색(무한스크롤)|상세페이지|댓글|
-|<img src="https://user-images.githubusercontent.com/89297158/171191609-19a1e6e8-f755-441a-99cc-2b70923e5843.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171192659-be36af5c-429a-4e7a-92a4-4d66fdb02b12.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171195102-6c9f3639-c061-4db2-8ef8-a4076f9280ef.gif" width="250"/>|
-|회원가입|로그인|마이페이지|
-|<img src="https://user-images.githubusercontent.com/89297158/171347275-8a500aef-240d-40c1-957c-9bcb3b804e6b.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171183020-e364b78b-1aec-4f0f-9481-0348554f1066.gif" width="250"/>|<img src="https://user-images.githubusercontent.com/89297158/171401291-539ca8f1-5fb1-42c7-abe2-a6dd09eebb76.gif" width="250"/>|
+
+|메인페이지|계획세우기|
+|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|
+|검색(무한스크롤)|상세페이지|
+|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|
+|회원가입|로그인|
+|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|<img src="https://user-images.githubusercontent.com/84282676/207547583-83eaa3f7-8357-4c9c-a0ec-dd940327d4ee.gif" width="100%"/>|
 </details>
 
 <br />
