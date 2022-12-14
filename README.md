@@ -39,14 +39,29 @@
 - **`카테고리별`**
   카테고리별로 구분된 장소들을 둘러보세요! 
   원하는 조건에 따라 필터링해서 검색할 수 있고, 지도버튼을 눌러서 지도상에서 위치를 찾아볼 수 있습니다.
+- **`상세페이지`**
+
+- **`관리자페이지`**
+
+- **`호스트페이지`**
+  호스트가 공간에 대한 정보를 등록하고, 관련 정보를 수정·삭제할 수 있는 공간입니다.
+- **`예약페이지`**
+  마음에 드는 공간을 예약하고, 예약한 정보들을 다시 확인할 수 있습니다.
+- **`찜한공간`**
+  나만의 찜한 공간을 만들어보세요!
+  마음에 드는 공간들을 찜하여 다시 볼 수 있습니다.
 - **`검색`**
-  원하는 여행 키워드를 검색하여, 여행플랜을 찾아볼 수 있습니다.
-  최신순&조회순&찜 많은 순 으로 나눠서 볼 수 있어요!
-- **`후기`**
-  여행을 직접 다녀온 유저들의 생생하고 솔직한 후기를 작성하고 공유할 수 있습니다.
+  원하는 공간 키워드를 검색하여, 해당 공간들을 찾아볼 수 있습니다.
+  최신순&인기순&가격순으로 나눠서 볼 수 있어요!
+- **`이용후기`**
+  해당 공간을 사용한 유저들의 생생하고 솔직한 후기를 작성하고 공유할 수 있습니다.
 - **`마이페이지`**
-  프로필&비밀번호 변경, 나의 예약 현황, 최근 본 장소들을 볼 수 있으며
-  회원탈퇴 기능도 있습니다.
+  프로필&비밀번호 변경, 회원탈퇴 등 회원정보 수정 및 삭제 기능이 가능하며,
+  사이드메뉴에는 나의리뷰, 찜 목록, 나의예약, 최근 본 장소 등 회원만의 맞춤메뉴를 확인할 수 있습니다.
+- **`최근 본 공간`**
+  회원이 최근에 본 공간들을 볼 수 있는 페이지입니다.
+  유저가 상세페이지에 접속시 해당 공간의 id를 브라우저의 세션 스토리지에 저장하는 방식입니다.
+  
 
 ## [🏷 API Table 🏷]
 
@@ -63,13 +78,10 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/axios-007CE2?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/reactrouterdom-CA4245?style=for-the-badge&logo=reactrouterdom&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
-<img src="https://img.shields.io/badge/route53-F7A81B?style=for-the-badge&logo=route53&logoColor=white">
-<img src="https://img.shields.io/badge/cloudfront-04ACE6?style=for-the-badge&logo=cloudfront&logoColor=white">
 <br>
 </p>
 
@@ -78,10 +90,11 @@
 <p>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-#5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
 </p>
 
