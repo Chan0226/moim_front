@@ -4,12 +4,12 @@
 
 #### MEMBERS
 
-[김병찬👨‍💻](https://github.com/Chan0226)
-[원종환👩‍💻]
-[윤명국👩‍💻]
-[권민성👩‍💻]
-[김민성👩‍💻]
-[현선혜👩‍💻]
+[김병찬👩‍💻](https://github.com/Chan0226)</br>
+[윤명국👨‍💻](https://github.com/kkookkss)</br>
+[원종환👩‍💻](https://github.com/Jonghwan-Won)</br>
+[김민성👨‍💻](https://github.com/nakimminsung)</br>
+[현선혜👩‍💻](https://github.com/shvyeon)</br>
+[권성민👨‍💻](https://github.com/KSM980)</br>
 </br></br>
 
 # Project
