@@ -78,7 +78,7 @@
 <p>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord-#5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -91,7 +91,7 @@
 <img src="https://user-images.githubusercontent.com/89297158/171176309-a0918a08-0596-43da-810e-e1b9737e98d0.png"/>
 
 ## ERD
-![erd1](https://user-images.githubusercontent.com/84282676/207519074-0c8f519c-245a-4b6e-9dad-0e0763d61e88.PNG)
+![erd1](https://user-images.githubusercontent.com/84282676/207521184-b64177f3-064a-4b72-9e3f-f54916acb2db.PNG)
 </br></br>
 
 ## 사이트 데모🎥
