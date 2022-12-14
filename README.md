@@ -88,13 +88,10 @@
 </br>
 
 ## 아키텍처✨
-![erd1](https://user-images.githubusercontent.com/84282676/207519074-0c8f519c-245a-4b6e-9dad-0e0763d61e88.PNG)
-
 <img src="https://user-images.githubusercontent.com/89297158/171176309-a0918a08-0596-43da-810e-e1b9737e98d0.png"/>
 
 ## ERD
-
-<img src="https://user-images.githubusercontent.com/89297158/171332401-36a1c418-717f-4271-bc75-8199f05dc0c3.png" />
+![erd1](https://user-images.githubusercontent.com/84282676/207519074-0c8f519c-245a-4b6e-9dad-0e0763d61e88.PNG)
 </br></br>
 
 ## 사이트 데모🎥
